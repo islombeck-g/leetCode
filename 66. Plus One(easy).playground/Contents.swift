@@ -1,6 +1,4 @@
 
-
-
 import UIKit
 
 class Solution {
@@ -17,7 +15,6 @@ class Solution {
                 }else{
                     result.append(u - 10)
                 }
-            
             }else{
                 result.append(i)
             }
